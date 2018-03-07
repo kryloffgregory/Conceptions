@@ -1,0 +1,9 @@
+A=0
+B=0
+C=0
+INP A
+INP B
+DIV A B
+MOV C A
+OUT C
+RET
