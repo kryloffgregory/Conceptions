@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xlocale(341): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\exception(359): warning C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc
+  Exceptions.vcxproj -> C:\Users\нр\Desktop\Programming\Conceptions\Exceptions\Debug\Exceptions.exe
+  Exceptions.vcxproj -> C:\Users\нр\Desktop\Programming\Conceptions\Exceptions\Debug\Exceptions.pdb (Full PDB)
